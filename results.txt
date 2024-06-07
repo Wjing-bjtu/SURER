@@ -1,0 +1,12 @@
+dataset_name: 100leaves
+ft_sp_weight: 0.5
+ft_cl_weight: 0.01
+ACC: 85.79	4.41
+NMI: 93.52	1.71
+Purity: 86.29	4.18
+ARI: 77.88	6.39
+P: 80.88	5.07
+R: 86.67	2.86
+F: 83.66	4.05
+Finetune Time: 31.58	1.71
+
